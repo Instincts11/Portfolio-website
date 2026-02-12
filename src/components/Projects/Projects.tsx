@@ -6,7 +6,7 @@ const VIDEO_URLS = {
   football: "https://res.cloudinary.com/dmeo6qeac/video/upload/v1770895678/football-demo_jgiwb2.mp4",
   bakery: "https://res.cloudinary.com/dmeo6qeac/video/upload/v1770896476/bakery-demo_pzljpg.mp4",
   furniture: "https://res.cloudinary.com/dmeo6qeac/video/upload/v1770895045/furniture-demo_htxfw3.mp4",
-  lostFound: "https://res.cloudinary.com/dmeo6qeac/video/upload/v1770895045/furniture-demo_htxfw3.mp4", // TODO: Replace with actual lost-and-found video
+  lostFound: "https://res.cloudinary.com/dmeo6qeac/video/upload/v1770900428/Screen_Recording_2026-02-12_172840_udrlhr.mp4",
   space: "https://res.cloudinary.com/dmeo6qeac/video/upload/v1770895761/space-demo_sgno42.mp4",
   travel: "https://res.cloudinary.com/dmeo6qeac/video/upload/v1770893457/travel-demo_pkm5ky.mp4"
 };
